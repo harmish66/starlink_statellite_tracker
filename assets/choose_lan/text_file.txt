@@ -1,0 +1,7 @@
+Name                                font style           size             color
+
+Choose language                     regular              62 px           #FFFFFF
+
+current language                    regular              52 px           #FFFFFF
+
+language btn text                   regular              50 px           #FFFFFF

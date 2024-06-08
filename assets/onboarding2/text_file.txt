@@ -1,0 +1,7 @@
+Name                         font style           size             color
+
+main text                    medium               70 px           #FFFFFF           
+
+sub text                     extralight           55 px           #FFFFFF
+
+next text                    regular              60 px           #FFFFFF
